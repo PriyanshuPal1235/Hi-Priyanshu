@@ -45,3 +45,6 @@ If you want to collaborate or hire me, feel free to reach out:
 ## ⭐ About This Repository
 This repository contains my portfolio / project files.  
 More updates coming soon!
+<p align="center">
+  <img src="YOUR_IMAGE_LINK_HERE" alt="Priyanshu Pal" width="200" style="border-radius:50%">
+</p>
